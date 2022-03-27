@@ -39,3 +39,9 @@ function main() {
 * HTML, CSS, JavaScript Courses on [Sololearn] (https://www.sololearn.com/) (completed)
 * React + Redux Course on [Sololearn] (https://www.sololearn.com/) (completed)
 * RS Schools Course «JavaScript/Front-end 2022Q1» (in progress)
+
+## Languages: 
+
+* **Uzbek** - Native
+* **English** - Upper-Intermediate (B2)
+* **Russian** - Upper-Intermediate (B2)
