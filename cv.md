@@ -32,3 +32,10 @@ function main() {
     console.log(convert(amount, rate)); 
 }
 ``` 
+
+## Education:
+
+* The Branch of Russian State University of Oil and Gas named after I.M. Gubkin in Tashkent (Bachelor Degree), Uzbekistan
+* HTML, CSS, JavaScript Courses on [Sololearn] (https://www.sololearn.com/) (completed)
+* React + Redux Course on [Sololearn] (https://www.sololearn.com/) (completed)
+* RS Schools Course «JavaScript/Front-end 2022Q1» (in progress)
