@@ -22,13 +22,13 @@ My name is Temur Isambaev. I'm 32 years old. Presently I work as an engineer at 
 ## Code Example:
 
 ```
-**function** main() { 
-    **var** amount = parseFloat(readLine(), 10); 
-    **var** rate = parseFloat(readLine(), 10); 
-    **function** convert(amount, rate) {
-       **var** result = amount * rate;
-       **return** result;
+function main() { 
+    var amount = parseFloat(readLine(), 10); 
+    var rate = parseFloat(readLine(), 10); 
+    function convert(amount, rate) {
+       var result = amount * rate;
+       return result;
     } 
-    **console.log**(convert(amount, rate)); 
+    console.log(convert(amount, rate)); 
 }
 ``` 
