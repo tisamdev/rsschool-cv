@@ -1,1 +1,1 @@
-https://tisamdev.github.io/rsschool-cv/cv
+https://tisamdev.github.io/rsschool-cv/
